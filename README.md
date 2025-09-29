@@ -89,13 +89,13 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris**
-  ![Listings Growth](https://github.com/YadavBarkha/Air/blob/b08524b6e321b3a8fc3d2183b3b21c957080ec81/Screenshot%202025-09-29%20161542.png)
+  ![Listings Growth](https://github.com/YadavBarkha/Air/blob/main/images/Screenshot%202025-09-29%20161542.png)
 
 * **Average Price by Locality**
-  ![Price by Locality](https://github.com/YadavBarkha/Air/blob/b08524b6e321b3a8fc3d2183b3b21c957080ec81/Screenshot%202025-09-29%20161908.png)
+  ![Price by Locality](https://github.com/YadavBarkha/Air/blob/891753271f2c89051964089b095c1bd063d544b8/images/Screenshot%202025-09-29%20161908.png)
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](https://github.com/YadavBarkha/Air/blob/b08524b6e321b3a8fc3d2183b3b21c957080ec81/Screenshot%202025-09-29%20162425.png)
+  ![Regulation Impact](https://github.com/YadavBarkha/Air/blob/891753271f2c89051964089b095c1bd063d544b8/images/Screenshot%202025-09-29%20162425.png)
 
 ---
 
