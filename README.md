@@ -1,4 +1,4 @@
-![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+![Stunning Paris Airbnb]("C:\Users\barkh\Downloads\airbnb_image.jpg")
 
 # 🏠 Airbnb Paris Analysis
 
